@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Guilherme\\source\\repos\\TesteMariaDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D40CADEA-C605-4F12-AA4F-208048286743}|TesteMariaDB\\TesteMariaDB.csproj|c:\\users\\guilherme\\source\\repos\\testemariadb\\testemariadb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40CADEA-C605-4F12-AA4F-208048286743}|TesteMariaDB\\TesteMariaDB.csproj|solutionrelative:testemariadb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40CADEA-C605-4F12-AA4F-208048286743}|TesteMariaDB\\TesteMariaDB.csproj|C:\\Users\\Guilherme\\source\\repos\\TesteMariaDB\\testemariadb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D40CADEA-C605-4F12-AA4F-208048286743}|TesteMariaDB\\TesteMariaDB.csproj|solutionrelative:testemariadb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D40CADEA-C605-4F12-AA4F-208048286743}|TesteMariaDB\\TesteMariaDB.csproj|C:\\Users\\Guilherme\\source\\repos\\TesteMariaDB\\testemariadb\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D40CADEA-C605-4F12-AA4F-208048286743}|TesteMariaDB\\TesteMariaDB.csproj|solutionrelative:testemariadb\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\TesteMariaDB\\TesteMariaDB\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TesteMariaDB\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\TesteMariaDB\\TesteMariaDB\\Form1.Designer.cs",
+              "RelativeToolTip": "TesteMariaDB\\Form1.Designer.cs",
+              "ViewState": "AQIAAHEAAAAAAAAAAAAcwIsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:53:54.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\TesteMariaDB\\TesteMariaDB\\Form1.cs",
+              "RelativeDocumentMoniker": "TesteMariaDB\\Form1.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\TesteMariaDB\\TesteMariaDB\\Form1.cs",
+              "RelativeToolTip": "TesteMariaDB\\Form1.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAcwIwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:53:40.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Guilherme\\source\\repos\\TesteMariaDB\\TesteMariaDB\\Form1.cs",
+              "RelativeDocumentMoniker": "TesteMariaDB\\Form1.cs",
+              "ToolTip": "C:\\Users\\Guilherme\\source\\repos\\TesteMariaDB\\TesteMariaDB\\Form1.cs [Design]",
+              "RelativeToolTip": "TesteMariaDB\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:53:25.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
